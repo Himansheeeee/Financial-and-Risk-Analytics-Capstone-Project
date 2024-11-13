@@ -1,4 +1,11 @@
 # Financial-and-Risk-Analytics-Capstone-Project
+## PROBLEM STATEMENT:
+- The industry has grown as individuals and businesses seek higher investment returns.  
+- Many investors lack the skills or time to identify profitable opportunities.  
+- Investment professionals manage portfolios and make decisions on behalf of clients.  
+- They earn commissions for managing investments and optimizing returns.
+
+
 ## ROLE:
 - In this project I have worked as an Associate at an Investment Firm, we analyze stock portfolios  to offer investment management advice based on client’s financial  requirements.
 - I Have analyzed 24 stocks from top companies across diverse sectors— Aviation, Finance, Healthcare, and Technology—listed on the New York Stock Exchange (NYSE).
